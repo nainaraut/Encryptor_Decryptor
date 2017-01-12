@@ -1,0 +1,10 @@
+@AUTHOR:Naina Raut
+@SCU ID: W1186663
+@Description: OOAD Assignment 3
+@Date:05/19/2016
+
+Information:
+1.No changes made to the existing classes.All the functionality remain as it is.
+2.No extra methods added in the existing classes.
+2.All the validations and controlling is done through the FrontEnd.java class.
+3.Run the code using FrontEnd.java class file in raut.DocSafe package.
